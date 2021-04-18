@@ -4,7 +4,7 @@
 # 报名号 F7DDrg
 ## 作品名称：“入门”	作品形式：机箱盖
 
-![“入门”](./photos/door.png)
+![“入门”](https://raw.githubusercontent.com/Torah/nas-house/main/photos/%E2%80%9C%E5%BA%99%E9%97%A8%E2%80%9D%E5%8A%A0%E5%9C%A8%E6%9C%BA%E7%AE%B1%E4%B8%8A%E7%9A%84%E6%95%88%E6%9E%9C%E7%B2%97%E5%8A%A0%E5%B7%A5%E5%AE%9E%E7%89%A9%E7%85%A7%E7%89%87.JPG)
 
 作品概述
 （请简要叙述作品名称、形式、理念、特色和创意等，字数以800字以内为宜，如需可另外附页或附图）
